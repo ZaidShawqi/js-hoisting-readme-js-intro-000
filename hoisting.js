@@ -1,5 +1,3 @@
-var lyric = "maybe";
-
 function callme() {
   console.log("I just met you...");
   console.log("and this is crazy..");
@@ -7,6 +5,8 @@ function callme() {
   console.log("so call me");
 
   return lyric;
+  var lyric = "maybe";
+
 }
 
 
