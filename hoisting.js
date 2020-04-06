@@ -1,4 +1,3 @@
-callme();
 function callme() {
 
   console.log("I just met you...");
